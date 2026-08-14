@@ -1,4 +1,4 @@
-setwd("C:/Users/klayo01/OneDrive - Ministère de l'Environnement et la Lutte contre les changements climatiques/Documents/GitHub/Profils_verticaux/.git")
+setwd("C:/Users/klayo01/OneDrive - Ministère de l'Environnement et la Lutte contre les changements climatiques/Documents/GitHub/Profils_verticaux")
 
 # Chargement des fonctions et bibliothèques
 devtools::document()
