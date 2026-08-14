@@ -4,7 +4,7 @@ setwd("C:/Users/klayo01/OneDrive - Ministère de l'Environnement et la Lutte con
 devtools::document()
 devtools::load_all()
 
-annee_fiche <- "2025" #Changer l'année en fonction des données à extraires
+annee_fiche <- "2024" #Changer l'année en fonction des données à extraires
 
 #Repertoire
 template_path <- "C:/Users/klayo01/OneDrive - Ministère de l'Environnement et la Lutte contre les changements climatiques/Documents/GitHub/Profils_verticaux/template_vide_fiche.docx"
